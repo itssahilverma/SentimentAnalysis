@@ -3,6 +3,9 @@
 
 '''Importing necessary lib csv for output, watson_developer_cloud for Analyse
     matplotlib for ploting, numpy to make array '''
+
+# Blackbox api
+
 import csv
 from watson_developer_cloud import ToneAnalyzerV3
 import matplotlib.pyplot as plt
