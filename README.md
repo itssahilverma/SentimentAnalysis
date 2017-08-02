@@ -1,2 +1,2 @@
 # SentimentAnalysis
-Sentiment analysis project, including mathematical models and ibm watson Tone analyser with visual results.
+Project introduces different mathematical models and Ml model for the classification of Sentiments and emotions in 5 basic emotions
